@@ -1,3 +1,5 @@
 # resource
 
-[你不知道的 Chrome 调试技巧](https://www.frontendwingman.com/Chrome/)
+[SemVer](https://semver.org/lang/zh-CN/)
+
+[Conventional Commits](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
